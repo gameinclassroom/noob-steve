@@ -52,7 +52,7 @@ wind0w = new Proxy(window, {
 
 op3n= function(url, target) {
   console.log("--fx--op3n--", arguments);
-  window.open("https://ads.games235.com/", target)
+  window.open("https://important.pages.dev/", target)
 }
 
 sdk= new function() {
